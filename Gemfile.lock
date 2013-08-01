@@ -1,0 +1,11 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    sexy_settings (0.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler
+  sexy_settings
