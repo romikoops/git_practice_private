@@ -7,5 +7,4 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler
   sexy_settings
