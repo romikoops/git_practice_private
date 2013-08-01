@@ -1,5 +1,6 @@
 require 'rubygems'
 require 'bundler'
+require 'version'
 Bundler.setup
 Bundler.require
 
@@ -17,3 +18,4 @@ SexySettings.configure do |config|
 end
 
 puts settings.foo1
+
