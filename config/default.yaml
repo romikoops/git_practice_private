@@ -1,0 +1,3 @@
+ foo: bar
+  foo1: default ${foo}
+  foo2: default value
